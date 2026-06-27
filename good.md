@@ -1,4 +1,4 @@
-## https://github.com/elijah-tng/rp.deps.composable
+## elijah-tng/rp.deps.composable
 
 https://jitpack.io/com/github/elijah-tng/rp.deps.composable/1364405e75/build.log
 
@@ -6,7 +6,7 @@ https://github.com/elijah-tng/rp.deps.composable/commit/1364405e7537e192192f6f33
 
 
 
-## https://github.com/elijah-tng/rp.deps.loadable
+## elijah-tng/rp.deps.loadable
 
 lazy: https://jitpack.io/#elijah-tng/rp.deps.loadable
 
