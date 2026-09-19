@@ -1,8 +1,10 @@
 ## elijah-tng/rp.deps.composable
 
-https://jitpack.io/com/github/elijah-tng/rp.deps.composable/1364405e75/build.log
+lazy: https://jitpack.io/#elijah-tng/rp.deps.composable
 
-https://github.com/elijah-tng/rp.deps.composable/commit/1364405e7537e192192f6f33492416844be315b2
+evidence: https://jitpack.io/com/github/elijah-tng/rp.deps.composable/1364405e75/build.log
+
+commit: https://github.com/elijah-tng/rp.deps.composable/commit/1364405e7537e192192f6f33492416844be315b2
 
 
 
